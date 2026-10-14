@@ -2,9 +2,6 @@
 Movie Title Recommendation System Using Principles Of Linear Algebra
 # Movie Recommender using Linear Algebra
 
-**UE25MA242A: Mathematics for AI and Data (MFAD), Mini Project**
-PES University, Department of Computer Science and Engineering
-
 A movie recommendation system built from scratch using core linear algebra concepts. It takes a user-by-movie ratings matrix, follows the workflow from the course guidelines (matrix representation, RREF, rank and basis, Gram-Schmidt, projection, least squares, eigenvalues, diagonalisation), and ends with movie recommendations for a "trial user".
 
 ## Team
